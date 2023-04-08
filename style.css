@@ -112,3 +112,6 @@ img {
 .nav a:hover {
     color: aqua;
 }
+h2{
+    text-decoration: underline;
+}
